@@ -8,7 +8,7 @@
 
 **Project**: [Keploy CLI Refactoring](https://github.com/keploy/gsoc/tree/main/2023#projects-list)
 
-**Mentors**: [Sarthak Shyngle](https://github.com/Sarthak160), [Charan Kamarapu](https://github.com/charankamarapu), [Gaurav Kumar](https://github.com/gouravkrosx), [Neha Gupta](https://github.com/nehagup), [Shubham Jain](https://github.com/slayerjain) ,[Animesh Pathak](https://github.com/Sonichigo), [Ritik Jain](https://github.com/re-Tick), [Pranshu Srivastava](https://github.com/PranshuSrivastava)
+**Mentors**: [Sarthak Shyngle](https://github.com/Sarthak160), [Charan Kamarapu](https://github.com/charankamarapu), [Gaurav Kumar](https://github.com/gouravkrosx), [Neha Gupta](https://github.com/nehagup), [Shubham Jain](https://github.com/slayerjain), [Ritik Jain](https://github.com/re-Tick)
 
 ## Project Description
 
