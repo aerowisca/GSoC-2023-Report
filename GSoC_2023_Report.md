@@ -23,7 +23,7 @@ To overcome this problem, I worked with Keploy on V2 of this project, which woul
      - Related PR : [#688](https://github.com/keploy/keploy/pull/688)
 - **Implementing grpcParser** : 
     - Wrote the grpc Parser for the proxy server to record and replay gRPC calls. 
-    - Related PR : [#729](https://github.com/keploy/keploy/pull/729)
+    - Related PR : [#740](https://github.com/keploy/keploy/pull/740)
 
 ### `MINOR TASKS` :
 - **Added unit test for proxy package** : 
