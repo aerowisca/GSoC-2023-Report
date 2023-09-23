@@ -6,7 +6,7 @@
 
 **Organization**: [Keploy](https://www.keploy.io/)
 
-**Project**: [Keploy CLI Refactoring](https://github.com/keploy/gsoc/tree/main/2023#projects-list)
+**Project**: [Keploy CLI Refactoring](https://summerofcode.withgoogle.com/programs/2023/projects/m3NRu5wa)
 
 **Mentors**: [Sarthak Shyngle](https://github.com/Sarthak160), [Charan Kamarapu](https://github.com/charankamarapu), [Gaurav Kumar](https://github.com/gouravkrosx), [Neha Gupta](https://github.com/nehagup), [Shubham Jain](https://github.com/slayerjain), [Ritik Jain](https://github.com/re-Tick)
 
